@@ -1,6 +1,7 @@
 - Peruna
 - Maito
 - Voi
-- dp
+- iskä
 - rööki
 - karamels
+- isoo vaippa
