@@ -1,5 +1,6 @@
 - Peruna
 - Maito
 - Voi
-- dp
+- iskä
 - rööki
+- isoo vaippa
