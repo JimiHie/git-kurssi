@@ -5,3 +5,4 @@
 - rööki
 - karamels
 - isoo vaippa
+- koko kauppa
